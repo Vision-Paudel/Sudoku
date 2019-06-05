@@ -6,5 +6,6 @@ Updated to accept filename as argument for GitHub by Me on June 5, 2019.
 
 Java source files are excluded as it is a common second year student assignment. 
 
-Command Line Argument: Java SudokuSolver [Filename.extension] 
+Command Line Argument: Java SudokuSolver [Filename.extension]
+
 Sample files are included for reference.
